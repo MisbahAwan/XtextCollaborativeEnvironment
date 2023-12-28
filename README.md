@@ -1,0 +1,2 @@
+# XtextCollaborativeEnvironment
+Xtext Collaborative Environment
